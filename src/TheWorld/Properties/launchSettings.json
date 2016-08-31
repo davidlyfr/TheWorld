@@ -12,6 +12,7 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
+        "MailSettings__ToAddress": "davidlynch469@hotmail.com",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },

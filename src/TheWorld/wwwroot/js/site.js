@@ -28,7 +28,7 @@
         {
             $(this).text("Show Sidebar");
         } else {
-            $(this).text("Hide Sidebar");
+          $(this).text("Hide Sidebar");
         }
     });
 })();
